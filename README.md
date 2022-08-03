@@ -1,3 +1,3 @@
-# MultiBandCompressor
+# Sidechain Compression
 
-##Goal: To create a Multi Band Compressor vst plugin using c++ JUCE Framework
+##Goal: To create a Sidechain Compressor vst plugin using c++ JUCE Framework
